@@ -1,0 +1,9 @@
+
+{
+  "name": "OceanGuard - Marine Plastic Monitoring Platform",
+  "description": "A professional NGO-grade platform for real-time monitoring and reporting of marine plastic pollution, supporting SDG 14: Life Below Water.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}

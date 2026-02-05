@@ -1,0 +1,17 @@
+
+{
+  "name": "oceanguard-backend",
+  "version": "1.0.0",
+  "main": "src/server.py",
+  "scripts": {
+    "start": "python src/server.py",
+    "dev": "python src/server.py",
+    "install-python": "pip install -r requirements.txt"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "python": {
+    "requirements": "requirements.txt",
+    "main": "src/server.py"
+  }
+}

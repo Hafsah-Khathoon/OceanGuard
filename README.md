@@ -1,6 +1,4 @@
 # OceanGuard - Marine Plastic Monitoring Platform
-
-
 A comprehensive platform for monitoring and combating marine plastic pollution, supporting UN SDG 14 (Life Below Water) through citizen science, volunteer coordination, and NGO administration.
 
 ## 🏗️ Project Structure
